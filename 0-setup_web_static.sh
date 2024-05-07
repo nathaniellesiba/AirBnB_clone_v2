@@ -68,7 +68,7 @@ server {
 	}
 
 	location /redirect_me {
-		return 301 https://www.youtube.com/watch?v=QH2-TGUlwu4;
+		return 301 https://www.youtube.com/watch?v=SBexk5asOkE;
 	}
 
 	error_page 404 /404.html;
